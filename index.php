@@ -8,7 +8,9 @@
 <body>
     <h3>
         <?php
-        echo "hello world!!! ini adalah halaman pertama PHP";
+        echo "hello world!!! otw tidur 5 menit coy";
+        echo "GAS KITA TIDUR 5 MENIT";
+        echo "LETS GOOOOOOOO";
         ?>
     </h3>
 </body>
