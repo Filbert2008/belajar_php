@@ -11,6 +11,8 @@
         echo "hello world!!! otw tidur 5 menit coy";
         echo "GAS KITA TIDUR 5 MENIT";
         echo "LETS GOOOOOOOO";
+        echo "Tapi tidak dianjurkan ya dek ya";
+        echo "Kurang primo hiiiiiiiiiiiiks";
         ?>
     </h3>
 </body>
