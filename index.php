@@ -13,6 +13,8 @@
         echo "LETS GOOOOOOOO";
         echo "Tapi tidak dianjurkan ya dek ya";
         echo "Kurang primo hiiiiiiiiiiiiks";
+        echo "sahabat promag";
+        echo "otw melawan pyro dragon";
         ?>
     </h3>
 </body>
